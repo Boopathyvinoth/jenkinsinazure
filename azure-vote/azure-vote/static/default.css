@@ -9,7 +9,7 @@ div#container {
 div#space {
     display:block;
     margin: 0 auto;
-    width: 500px;
+    width: 5000px;
     height: 10px;
  
 }
@@ -17,9 +17,9 @@ div#space {
 div#logo {
     display:block;
     margin: 0 auto;
-    width: 500px;
+    width: 5000px;
     text-align: center;
-    font-size:30px;
+    font-size:300px;
     font-family:Helvetica;  
     /*border-bottom: 1px solid black;*/   
 }
